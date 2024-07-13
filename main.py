@@ -4,3 +4,4 @@
 
 import turtle
 ben = turtle.Turtle()
+ben.circle()
