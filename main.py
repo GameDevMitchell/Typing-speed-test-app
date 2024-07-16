@@ -1,7 +1,7 @@
 # setting up interfaces and common buttons
 # planning out the forms and design process
 # create requirements.txt and check  relevant dependencies
-# alongisde other too
+# alongisde other tools
 
 import turtle
 ben = turtle.Turtle()
