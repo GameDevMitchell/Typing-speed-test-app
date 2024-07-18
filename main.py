@@ -5,9 +5,9 @@
 
 import turtle
 
-# ben = turtle.Turtle()
-# ben.circle()
-# ben.type()
+ben = turtle.Turtle()
+ben.circle()
+ben.type()
 
 print("Hello")
 print("What can we help you with")
